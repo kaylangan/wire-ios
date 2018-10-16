@@ -31,7 +31,7 @@
 @class AnalyticsProvider;
 static NSString* ZMLogTag ZM_UNUSED = @"Analytics";
 
-NSString * MixpanelAPIKey = @"537da3b3bc07df1e420d07e2921a6f6a";
+NSString * MixpanelAPIKey = @"537da3b3bc07df1e420d07e292aaaaaa";
 NSString * PersistedAttributesKey = @"AnalyticsPersistedEventAttributes";
 BOOL UseAnalytics = USE_ANALYTICS;
 
